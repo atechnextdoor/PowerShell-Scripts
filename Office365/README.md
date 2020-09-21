@@ -6,7 +6,7 @@ This PowerShell script was created to make life easier regarding adding Office36
 * Office365 Admin credentials
 
 ## Getting Started
-1. Download and extract the [Office365.zip](https://github.com/atechnextdoor/PowerShell-Scripts/archive/master.zip) file to your Windows machine
+1. Download and extract the [PowerShell-Scripts-master.zip](https://github.com/atechnextdoor/PowerShell-Scripts/archive/master.zip) file to your Windows machine
 2. Open PowerShell as an Administrator
 3. Navigate to the root of the Office365 folder, ie. cd C:\Users\User\Download\Office365
 4. Run the script .\create-users.ps1

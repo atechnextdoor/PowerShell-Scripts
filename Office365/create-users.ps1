@@ -33,7 +33,7 @@ Import-Csv -Path $CSV | foreach {
         Write-Host "User" $_.DisplayName "created successfully." -ForegroundColor "Green"
     }
     catch {
-        "An error occured. Check the .csv file formatting and try again."
+        "An error occured. Either the user already exists or check the .csv file formatting and try again."
     }
     Write-Host "All users created successfully." -ForegroundColor "Yellow"
 }
